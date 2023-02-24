@@ -1,0 +1,18 @@
+.btn{
+    margin-top: 170px;
+    margin-left: 100px;
+    height: 15%;
+	width: 35%;
+    font-size: 30px;
+	background-color: white;
+	box-shadow: 8px 8px 20px rgb(213, 157, 3);
+	position: relative;
+	overflow: hidden;
+}
+
+.container {
+	height: 650px;
+	width: 1200px;
+	background-color: white;
+	box-shadow: 8px 8px 20px rgb(128, 128, 128);
+}
